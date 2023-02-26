@@ -1,5 +1,7 @@
 body {
-  background: linear-gradient(176deg, #00fcfa85 34%, #ff860091 49%, #ff860091 70%, #00fcfa85 83%);
+  background: linear-gradient(176deg, #00fcfa85 34%, #ff860059 49%, #ff860059 70%, #00fcfa85 83%);
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 ul {
